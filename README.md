@@ -1,1 +1,1 @@
-DemoLink : sorting-algorithm-visulizer.netlify.app
+DemoLink : https://sorting-algorithm-visulizer.netlify.app/
