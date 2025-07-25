@@ -1,1 +1,1 @@
-DemoLink : https://dsa-sorting-visualization-mk.netlify.app/
+DemoLink : sorting-algorithm-visulizer.netlify.app
